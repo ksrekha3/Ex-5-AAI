@@ -1,6 +1,6 @@
 <H3 ALIGN=RIGHT> DATE:<H3>
 
-<H1 ALIGN=CENTER> Experiment-5: Implementation of Approximate Inference in Bayesian Networks </H1>
+<H1 ALIGN=CENTER> Experiment-5: Implementation of Kalman filter </H1>
 
 ### Name: 
 ### Register Number:
